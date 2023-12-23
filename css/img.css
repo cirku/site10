@@ -1,0 +1,18 @@
+body{
+	background-color: lightblue;
+	background-image: url(https://i.gifer.com/47tv.gif);
+	background-size: 200px;
+}
+p{
+	color: lime;
+	font-size: 1in;
+	background-image:url(https://www.imageshine.in/uploads/gallery/Free-vector-hand-painted-watercolor-abstract-watercolor-background.jpg) ;
+background-size: cover;
+}
+div{
+	width: 500px;
+	height: 500px;
+}
+.d1{
+	background-image: url(https://clipart-library.com/images/dT45ELLac.gif)
+}
